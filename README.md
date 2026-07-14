@@ -55,14 +55,11 @@ Welcome to my Data Analyst portfolio repository. This repository showcases a col
 
 ---
 
-## 📁 Repository Contents
-
-* `.pbix` files for Power BI dashboards
-* PDF report for finance analysis
 
 ---
  Tools & Technologies
 * Power BI
+* SQL
 * Microsoft Excel
 * Data Analysis Techniques
 
